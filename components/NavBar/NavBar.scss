@@ -1,0 +1,46 @@
+
+.nav-bar{
+	.nav-bar-top{
+		position: fixed;
+		top: 0%;
+		left: 0;
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0rpx 30rpx 20rpx;
+		background-color: $base-color;
+		.nav-bar-content{
+			@include flex(flex-start);
+			background-color: #fff;
+			height: 60rpx;
+			border-radius: 30rpx;
+			color: #999;
+			padding-left: 20rpx;
+			flex-grow: 1;
+			// box-sizing: border-box;
+			.nav-search{
+				margin-left: 20rpx;
+				font-size: 28rpx;
+				width: 100%;
+				box-sizing: border-box;
+			}
+		}
+	}
+	
+	/* 搜索界面的返回按钮样式 */
+	.return-icon{
+		position: absolute;
+		left: 0;
+		height: 60rpx;
+		@include flex(center)
+	}
+	
+	.search-input{
+		font-size: 28rpx;
+		color: #999;
+		width: 100%;
+		padding: 20rpx;
+		// text-indent: 20rpx;
+	}
+}
+
+

@@ -1,0 +1,7 @@
+{
+  "name": "send-comment-data",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

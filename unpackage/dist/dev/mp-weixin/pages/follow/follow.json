@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关注",
+  "usingComponents": {
+    "list-item": "/components/ListItem/ListItem",
+    "author-list": "/components/AuthorList/AuthorList"
+  }
+}

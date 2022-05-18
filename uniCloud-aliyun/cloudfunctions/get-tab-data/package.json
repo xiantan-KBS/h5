@@ -1,0 +1,7 @@
+{
+  "name": "tab-data",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

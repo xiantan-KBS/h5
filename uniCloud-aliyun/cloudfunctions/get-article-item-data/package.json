@@ -1,0 +1,7 @@
+{
+  "name": "get-article-item-data",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
